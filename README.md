@@ -1,6 +1,6 @@
 # AboutUs
 
-Welcome to [Sigr](Sigr.cc), your ultimate destination for premium cycling apparel, proudly rooted in Umeå, Northern Sweden. Our eCommerce store offers an extensive collection of jerseys, bib shorts, jackets, gilets, chinos, shorts, rain gear, vests, and reflectives, all meticulously designed to meet the diverse needs of cyclists.
+Welcome to [Sigr](https://sigr.cc/), your ultimate destination for premium cycling apparel, proudly rooted in Umeå, Northern Sweden. Our eCommerce store offers an extensive collection of jerseys, bib shorts, jackets, gilets, chinos, shorts, rain gear, vests, and reflectives, all meticulously designed to meet the diverse needs of cyclists.
 
 Born with a mission to move forward in harmony with the earth, Sigr embodies the spirit of Swedish values—equality, democracy, and sustainability. We are committed to creating an inclusive biking culture where everyone feels represented and empowered to ride. Our products are crafted from high-quality materials, ensuring superior performance, comfort, and style, whether you're conquering rugged trails or cruising urban streets.
 
